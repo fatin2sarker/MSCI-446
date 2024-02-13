@@ -1,4 +1,4 @@
-# MSCI-446
+# MSCI446 Project
 Group 4
 # NourishNudge
 In the category of Empirical Evaluation (category 2), we focus on the application area of Food
