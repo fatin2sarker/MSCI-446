@@ -4,8 +4,8 @@ import random
 # Define synthetic data for ingredient names, quantities, units, and categories
 ingredients = ['Chicken', 'Broccoli', 'Rice', 'Tomato', 'Spinach']
 quantities = [random.randint(50, 200) for _ in range(len(ingredients))]
-units = ['grams', 'ounces', 'cups', 'pieces', 'slices']
-categories = ['Proteins', 'Vegetables', 'Grains', 'Fruits', 'Dairy']
+units = ['grams', 'grams', 'grams', 'pieces', 'grams']  # Adjusted units for consistency
+categories = ['Proteins', 'Vegetables', 'Grains', 'Fruits', 'Vegetables']  # Adjusted categories for consistency
 
 # Define synthetic data for recipe data
 recipes = ['Chicken Stir-Fry', 'Broccoli Salad', 'Tomato Soup', 'Spinach Smoothie', 'Rice Pilaf']
