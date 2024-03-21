@@ -1,6 +1,6 @@
 Ingredient,Quantity,Unit,Category,Recipe,Recipe Category,Recipe Difficulty,Calories,Carbohydrates,Proteins,Fats,Vitamins,Minerals,Dietary Preferences,Dietary Restrictions,Health Goals,Rating,Comments,Ingredient Substitutions,Serving Size,Prep Time (mins),Cook Time (mins)
-Chicken,113,grams,Proteins,Chicken Stir-Fry,Dinner,Easy,357,5,32,44,Vitamin A,Iron,Italian Cuisine,Allergy: Nuts,Weight Loss,5,Delicious!,Almond milk instead of cow milk,1,47,96
-Broccoli,100,grams,Vegetables,Broccoli Salad,Lunch,Medium,382,25,35,24,Vitamin C,Calcium,Spicy Food,Dairy-Free,Muscle Gain,2,Needs more seasoning,Tofu instead of chicken,2,13,46
-Rice,199,grams,Grains,Tomato Soup,Soup,Medium,355,8,39,9,Vitamin D,Potassium,Low-Carb,Low-Sodium,Maintenance,5,Too salty,,1,21,57
-Tomato,85,pieces,Fruits,Spinach Smoothie,Breakfast,Easy,180,20,48,10,Vitamin E,Magnesium,Vegetarian,Vegan,Heart Health,4,Great recipe!,No substitutions,1,26,87
-Spinach,141,grams,Vegetables,Rice Pilaf,Snack,Hard,125,45,10,28,Vitamin K,Zinc,Gluten-Free,Keto,Energy Boost,2,Easy to make,,4,13,33
+Chicken,114,grams,Proteins,Chicken Stir-Fry,Dinner,Easy,227,5,38,11,Vitamin A,Iron,Italian Cuisine,Allergy: Nuts,Weight Loss,4,Delicious!,Almond milk instead of cow milk,2,19,63
+Broccoli,61,grams,Vegetables,Broccoli Salad,Lunch,Medium,461,21,32,27,Vitamin C,Calcium,Spicy Food,Dairy-Free,Muscle Gain,1,Needs more seasoning,Tofu instead of chicken,3,53,100
+Rice,119,grams,Grains,Tomato Soup,Soup,Medium,111,35,47,18,Vitamin D,Potassium,Low-Carb,Low-Sodium,Maintenance,5,Too salty,,2,58,49
+Tomato,198,pieces,Fruits,Spinach Smoothie,Breakfast,Easy,423,7,15,19,Vitamin E,Magnesium,Vegetarian,Vegan,Heart Health,2,Great recipe!,No substitutions,1,43,25
+Spinach,136,grams,Vegetables,Rice Pilaf,Snack,Hard,464,19,30,14,Vitamin K,Zinc,Gluten-Free,Keto,Energy Boost,5,Easy to make,,4,56,114
