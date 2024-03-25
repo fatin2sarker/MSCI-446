@@ -14,10 +14,12 @@ economical, time-saving meal solutions.
 # Running the code
 
 Random Forest algorithm:
+
 With bootstrap: random_forest_bootstrapping.ipynb
 Without bootstrap: random_forest.ipynb
 
 K_Clustering:
+
 
 Neurel Network:
 
